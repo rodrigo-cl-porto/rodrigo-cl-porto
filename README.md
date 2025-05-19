@@ -5,7 +5,7 @@ Olá, sou Rodrigo Porto, formado em Engenharia de Produção pela Universidade F
 
 ## Hard Skills
 
-## Linguagens de Marcação e Estilo
+### Linguagens de Marcação e Estilo
 
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +39,7 @@ Olá, sou Rodrigo Porto, formado em Engenharia de Produção pela Universidade F
 [![NetworkX](https://img.shields.io/badge/networkx-white?style=for-the-badge&logo=networkx)](https://networkx.org/)
 ![SQLite3](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite)
 
-## Plataformas Low-Code
+### Plataformas Low-Code
 
 ![Power Apps](https://img.shields.io/badge/power_apps-8F3288?style=for-the-badge)
 ![Power Automate](https://img.shields.io/badge/power_automate-1751CB?style=for-the-badge)
