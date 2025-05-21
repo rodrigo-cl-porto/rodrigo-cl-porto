@@ -30,21 +30,29 @@ Formado em Engenharia de Produção pela Universidade Federal Fluminense. Atualm
 
 ### 🛠️ Ferramentas
 <a href="https://www.anaconda.com/" target="_blank">
-<img alt="Anaconda" loading="lazy" src="https://devicon-website.vercel.app/api/anaconda/original-wordmark.svg" height="40" width="40" target="_blank"/>
+    <img alt="Anaconda" loading="lazy" src="https://devicon-website.vercel.app/api/anaconda/original-wordmark.svg" height="40" width="40" target="_blank"/>
 </a>
 <a href="https://jupyter.org/" target="_blank">
     <img alt="Jupyter Notebook" src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg" loading="lazy" height="40" width="40" target="_blank"/>
 </a>
-<img alt="Power BI" src="assets/power_bi.svg" loading="lazy" height="40" width="40" target="_blank" />
-<img alt="PowerShell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" loading="lazy" height="40" width="40" target="_blank" />
+<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank">
+    <img alt="Power BI" src="assets/power_bi.svg" loading="lazy" height="40" width="40" target="_blank" />
+</a>
+<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank">
+    <img alt="PowerShell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" loading="lazy" height="40" width="40" target="_blank" />
+</a>
 <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" loading="lazy" height="40" width="40" target="_blank"  />
 </a>
-<img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" loading="lazy" height="40" width="40" target="_blank" />
+<a href="https://code.visualstudio.com/docs" target="_blank">
+    <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" loading="lazy" height="40" width="40" target="_blank" />
+</a>
 <a href="https://www.postman.com/" target="_blank">
     <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" loading="lazy" height="40" width="40" target="_blank" />
 </a>
-<img alt="Microsoft SharePoint" src="assets/ms_sharepoint.svg" loading="lazy" height="40" width="40" target="_blank" />
+<a href="https://learn.microsoft.com/en-us/sharepoint/" target="_blank">
+    <img alt="Microsoft SharePoint" src="assets/ms_sharepoint.svg" loading="lazy" height="40" width="40" target="_blank" />
+</a>
 
 ### 📚 Bibliotecas e Frameworks
 <a href="https://pandas.pydata.org/docs/" target="_blank">
