@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="140px" height="140px" xmlns:xlink="http://www.w3.org/1999/xlink">
+
 <title>Power Query Logo</title>
-<rect width="140" height="105" x="" y="15" fill="white"/>
+
 <polygon fill='#1D5D3B' points="0,12 80,0 80,140, 0,128" />
 <rect fill="#1D5D3B" x="80" y="15" width="60" height="110" />
 <rect fill="white" x="80" y="20" width="55" height="100" />
@@ -20,5 +21,7 @@
     <rect x="103" y="98" width="22" height="12" />
 </g>
 
-<text id="vba" x="5" y="84" fill="white" font-size="47" style="font-family:sans-serif;font-weight:bold">PQ</text>
+<text id="PQ" x="7" y="83" fill="white" font-size="45" style="font-family:sans-serif;font-weight:bold">
+    PQ
+</text>
 </svg>
