@@ -11,8 +11,8 @@ Formado em Engenharia de Produção pela Universidade Federal Fluminense. Atualm
 ### 💻 Linguagens de Programação
 [<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" loading="lazy" height="40" width="40" />](https://www.markdownguide.org/)
 [<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" loading="lazy" height="40" width="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="VBA" src="assets/vba.svg" style="background-color:white" loading="lazy" height="40" width="40" target="_blank"/>](https://learn.microsoft.com/en-us/office/vba/api/overview/)
-[<img alt="Power Query" src="assets/power_query.svg" style="padding:5px;background-color:white;border-radius:5px" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-query/)
+[<img alt="VBA" src="assets/vba.svg" loading="lazy" height="40" width="40" target="_blank"/>](https://learn.microsoft.com/en-us/office/vba/api/overview/)
+[<img alt="Power Query" src="assets/power_query.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-query/)
 
 ### 🛠️ Ferramentas
 [<img alt="Anaconda" src="https://devicon-website.vercel.app/api/anaconda/original-wordmark.svg" loading="lazy" height="40" width="40" />](https://www.anaconda.com/)
