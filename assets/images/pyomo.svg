@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="450" height="450">
+<style>
+    @font-face {
+        font-family: Eurostile;
+        src: url(../fonts/eurostile_lt_std_demi.otf);
+    }
+    text{
+        font-family: Eurostile, sans-serif;
+    }
+</style>
+<title>Pyomo Logo</title>
+<path id="branch" fill="#B1D234" d="M 34,415 C 100,317 308,250 450 375 V 411 C 300,280 140,320 34,415" />
+<polygon id="left-wing" fill="#D5562A" points="0,67 77,76 178,204" />
+<polygon id="right-wing" fill="#EB7A30" points="17,0 203,7 178,204" />
+<polygon id="beak" fill="#EA1C24" points="391,128 439,200 374,194"/>
+<polygon id="chest" fill="#03ADEB" points="313,144 391,128 359,253 220,328"/>
+<polygon id="right-front-wing" fill="#F4BA3A" points="178,204 203,7 369,214 220,328"/>
+<polygon id="tail" fill="#2B388D" points="178,204 228,350 136,415" />
+<text x="89" y="450" font-size="80" textLength="350" fill="#bebebe" >PYOMO</text>
+</svg>
