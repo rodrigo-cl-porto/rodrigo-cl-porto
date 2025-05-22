@@ -25,7 +25,7 @@ Formado em Engenharia de Produção pela Universidade Federal Fluminense. Atualm
 [<img alt="Microsoft SharePoint" src="assets/images/ms_sharepoint.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/sharepoint/)
 
 ### 📚 Bibliotecas e Frameworks
-[<img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" loading="lazy" height="40" width="40" />](https://pandas.pydata.org/docs/)
+[<img alt="Pandas" src="assets/images/pandas.svg" loading="lazy" height="40" width="40" />](https://pandas.pydata.org/docs/)
 [<img alt="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" loading="lazy" height="40" width="40" />](https://numpy.org/)
 [<img alt="Pyomo" src="assets/images/pyomo.svg" loading="lazy" height="40" width="40" />](https://www.pyomo.org/)
 [<img alt="NetworkX" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" loading="lazy" height="40" width="40" />](https://networkx.org/)
