@@ -1,6 +1,6 @@
 # Rodrigo Celso de Lima Porto <img src="assets\images\brazilian_flag.svg" width="30" height="20"/> 🏳️‍🌈
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=435&lines=Hello+there!%F0%9F%91%8B;Nice+to+meet+you!☺️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=435&lines=Hello+there!%F0%9F%91%8B;Nice+to+meet+you!&#x1F60A" alt="Typing SVG" /></a>
 
 I have a degree in Production Engineering from Fluminense Federal University. I'm currently specializing in Data Engineering. I have extensive experience in projects related to ETL process automation using VBA, DAX, and Power Query programming, as well as projects using low-code platforms such as Power Apps and Power Automate. I'm currently focusing on automation projects with Python and SQL to solidify my professional career as a Data Engineer.
 
@@ -58,3 +58,5 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
         <img src="https://raw.githubusercontent.com/rodrigo-cl-porto/rodrigo-cl-porto/output/snake.svg" alt="Snake animation" />
     </picture>
 </div>
+
+<img src="https://raw.githubusercontent.com/rodrigo-cl-porto/rodrigo-cl-porto/output/snake.svg" alt="Snake animation" />
