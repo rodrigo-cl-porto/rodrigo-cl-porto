@@ -1,4 +1,7 @@
 # Rodrigo Celso de Lima Porto
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=435&lines=Hi%2C+There!;I'm+Rodrigo+Porto%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 Formado em Engenharia de Produção pela Universidade Federal Fluminense. Atualmente estou me especializando na área de Engenharia de Dados. Tenho bastante experiência em projetos relacionados à automação de processos ETL por meio de programação em VBA, DAX e Power Query, além de ter realizado projetos em plataformas low-code como Power Apps e Power Automate. No momento, estou focando em projetos de automação com Python e SQL como consolidação para a minha carreira profissional como Engenheiro de Dados.
 
 ## Hard Skills
@@ -39,9 +42,18 @@ Formado em Engenharia de Produção pela Universidade Federal Fluminense. Atualm
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigo-cl-porto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 👇 Você pode me encontrar aqui
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/rodrigo-cl-porto/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigo-cl-porto)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigo.cl.porto@gmail.com)
+
+## Minhas contribuições
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigo-cl-porto/rodrigo-cl-porto/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigo-cl-porto/rodrigo-cl-porto/output/github-contribution-grid-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/rodrigo-cl-porto/rodrigo-cl-porto/output/github-contribution-grid-snake.svg" />
+    </picture>
+</div>
