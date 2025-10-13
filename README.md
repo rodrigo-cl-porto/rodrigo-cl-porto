@@ -51,6 +51,14 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigo.cl.porto@gmail.com)
 
 ## My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 <div align="center">
-    <img src="https://raw.githubusercontent.com/rodrigo-cl-porto/rodrigo-cl-porto/output/github-contribution-grid-snake-dark.svg" alt="Snake Game animation" />
+    <img src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game animation" />
 </div>
