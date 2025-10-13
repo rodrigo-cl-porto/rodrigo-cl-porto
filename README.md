@@ -20,7 +20,7 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 ### 🛠️ Tools
 [<img alt="Anaconda" src="https://devicon-website.vercel.app/api/anaconda/original-wordmark.svg" loading="lazy" height="40" width="40" />](https://www.anaconda.com/)
 [<img alt="Jupyter Notebook" src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg" loading="lazy" height="40" width="40" />](https://jupyter.org/)
-[<img alt="Power BI" src="assets/images/power_bi.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-bi/)
+[<img alt="Power BI" src="./assets/images/power_bi.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-bi/)
 [<img alt="PowerShell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-bi/)
 [<img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" loading="lazy" height="40" width="40" />](https://git-scm.com/)
 [<img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" loading="lazy" height="40" width="40" />](https://code.visualstudio.com/docs)
