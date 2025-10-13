@@ -1,4 +1,4 @@
-# Rodrigo Celso de Lima Porto <img src="https://github.com/rodrigo-cl-porto/rodrigo-cl-porto/blob/main/assets/images/brazilian_flag.svg" /> 🏳️‍🌈
+# Rodrigo Celso de Lima Porto <img src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/brazilian_flag.svg" loading="lazy" height="32" width="32" /> 🏳️‍🌈
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello+there!%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%8A)](https://git.io/typing-svg)
 
@@ -14,29 +14,29 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 ### 💻 Programming Languages
 [<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" loading="lazy" height="40" width="40" />](https://www.markdownguide.org/)
 [<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" loading="lazy" height="40" width="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="VBA" src="assets\images\vba.png" height="40" width="40" />](https://learn.microsoft.com/en-us/office/vba/api/overview/)
-[<img alt="Power Query M Code" src="assets/images/power_query.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/powerquery-m/)
+[<img alt="VBA" src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/vba.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/office/vba/api/overview/)
+[<img alt="Power Query M Code" src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/power_query.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/powerquery-m/)
 
 ### 🛠️ Tools
 [<img alt="Anaconda" src="https://devicon-website.vercel.app/api/anaconda/original-wordmark.svg" loading="lazy" height="40" width="40" />](https://www.anaconda.com/)
 [<img alt="Jupyter Notebook" src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg" loading="lazy" height="40" width="40" />](https://jupyter.org/)
-[<img alt="Power BI" src="./assets/images/power_bi.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-bi/)
+[<img alt="Power BI" src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/power_bi.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-bi/)
 [<img alt="PowerShell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-bi/)
 [<img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" loading="lazy" height="40" width="40" />](https://git-scm.com/)
 [<img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" loading="lazy" height="40" width="40" />](https://code.visualstudio.com/docs)
 [<img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" loading="lazy" height="40" width="40" />](https://www.postman.com/)
-[<img alt="Microsoft SharePoint" src="assets/images/ms_sharepoint.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/sharepoint/)
+[<img alt="Microsoft SharePoint" src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/ms_sharepoint.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/sharepoint/)
 
 ### 📚 Libraries e Frameworks
-[<img alt="Pandas" src="assets/images/pandas.svg" loading="lazy" height="40" width="40" />](https://pandas.pydata.org/docs/)
+[<img alt="Pandas" src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/pandas.svg" loading="lazy" height="40" width="40" />](https://pandas.pydata.org/docs/)
 [<img alt="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" loading="lazy" height="40" width="40" />](https://numpy.org/)
-[<img alt="Pyomo" src="assets/images/pyomo.svg" loading="lazy" height="40" width="40" />](https://www.pyomo.org/)
+[<img alt="Pyomo" src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/pyomo.svg" loading="lazy" height="40" width="40" />](https://www.pyomo.org/)
 [<img alt="NetworkX" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" loading="lazy" height="40" width="40" />](https://networkx.org/)
 [<img alt="SQLite3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" loading="lazy" height="40" width="40" />](https://docs.python.org/3/library/sqlite3.html)
 
 ### 🧩 Low-Code Platforms
-[<img alt="Power Apps" src="assets/images/power_apps.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-apps/)
-[<img alt="Power Automate" src="assets/images/power_automate.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-automate/)
+[<img alt="Power Apps" src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/power_apps.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-apps/)
+[<img alt="Power Automate" src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/power_automate.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-automate/)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
