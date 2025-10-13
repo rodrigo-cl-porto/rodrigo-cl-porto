@@ -1,4 +1,4 @@
-# Rodrigo Celso de Lima Porto <img src="assets\images\brazilian_flag.svg" width="30" height="20"/> 🏳️‍🌈
+# Rodrigo Celso de Lima Porto <img src="./assets/images/brazilian_flag.svg" /> 🏳️‍🌈
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello+there!%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%8A)](https://git.io/typing-svg)
 
