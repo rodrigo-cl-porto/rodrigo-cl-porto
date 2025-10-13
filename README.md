@@ -1,4 +1,4 @@
-# Rodrigo Celso de Lima Porto <img src="assets\images\brazilian_flag.svg" width="30" height="20"/> 🏳️‍🌈
+# Rodrigo Celso de Lima Porto <img src=".github\assets\images\brazilian_flag.svg" width="30" height="20"/> 🏳️‍🌈
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello+there!%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%8A)](https://git.io/typing-svg)
 
@@ -36,7 +36,7 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 
 ### 🧩 Low-Code Platforms
 [<img alt="Power Apps" src=".github/assets/images/power_apps.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-apps/)
-[<img alt="Power Automate" src=".github/assets/images/power_automate.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-automate/)
+[<img alt="Power Automate" src=".github/assets/images/power_automate.svg" height="40" width="40" />](https://learn.microsoft.com/en-us/power-automate/)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -44,7 +44,7 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## You can contact me here 👇
+## 👇 You can contact me here
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/rodrigo-cl-porto/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigo-cl-porto)
 [![Kaggle](https://img.shields.io/badge/-20beff?style=for-the-badge&logo=kaggle&logoColor=white&logoSize=auto)](https://www.kaggle.com/rodrigoclporto)
