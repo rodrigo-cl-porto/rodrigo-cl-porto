@@ -60,5 +60,5 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game animation" />
+    <img src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/output/github-contribution-grid-snake.gif" alt="Snake Game animation" />
 </div>
