@@ -14,7 +14,7 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 ### 💻 Programming Languages
 [<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" loading="lazy" height="40" width="40" />](https://www.markdownguide.org/)
 [<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" loading="lazy" height="40" width="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="VBA" src=".github/assets/images/vba.svg" loading="lazy" height="40" width="40" target="_blank"/>](https://learn.microsoft.com/en-us/office/vba/api/overview/)
+[<img alt="VBA" src=".github\assets\images\vba.svg" loading="lazy" height="40" width="40" target="_blank"/>](https://learn.microsoft.com/en-us/office/vba/api/overview/)
 [<img alt="Power Query M Code" src=".github/assets/images/power_query.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/powerquery-m/)
 
 ### 🛠️ Tools
@@ -36,7 +36,7 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 
 ### 🧩 Low-Code Platforms
 [<img alt="Power Apps" src=".github/assets/images/power_apps.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-apps/)
-[<img alt="Power Automate" src=".github/assets/images/power_automate.svg" height="40" width="40" />](https://learn.microsoft.com/en-us/power-automate/)
+[<img alt="Power Automate" src=".github/assets/images/power_automate.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/power-automate/)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
