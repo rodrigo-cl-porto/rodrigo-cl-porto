@@ -1,4 +1,4 @@
-# Rodrigo Celso de Lima Porto <img src="./assets/images/brazilian_flag.svg" /> 🏳️‍🌈
+# Rodrigo Celso de Lima Porto <img src="https://github.com/rodrigo-cl-porto/rodrigo-cl-porto/blob/main/assets/images/brazilian_flag.svg" /> 🏳️‍🌈
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello+there!%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%8A)](https://git.io/typing-svg)
 
@@ -14,9 +14,6 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 ### 💻 Programming Languages
 [<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" loading="lazy" height="40" width="40" />](https://www.markdownguide.org/)
 [<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" loading="lazy" height="40" width="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-![VBA](./assets/images/vba.svg)
-
 [<img alt="VBA" src="assets/images/vba.svg" height="40" width="40" />](https://learn.microsoft.com/en-us/office/vba/api/overview/)
 [<img alt="Power Query M Code" src="assets/images/power_query.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/powerquery-m/)
 
