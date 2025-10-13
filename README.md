@@ -7,14 +7,21 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 ## Hard Skills
 
 ### ✍️ Style and Mardown Languages
+
 [<img alt="Markdown" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF" loading="lazy" height="40" width="40" />](https://www.markdownguide.org/)
+
 [<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" loading="lazy" height="40" width="40" />](https://www.w3.org/TR/2011/WD-html5-20110405/)
+
 [<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" loading="lazy" height="40" width="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### 💻 Programming Languages
+
 [<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" loading="lazy" height="40" width="40" />](https://www.markdownguide.org/)
+
 [<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" loading="lazy" height="40" width="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="VBA" src=".github\assets\images\vba.svg" />](https://learn.microsoft.com/en-us/office/vba/api/overview/)
+
+<img alt="VBA" src=".github\assets\images\vba.svg" loading="lazy" height="40" width="40" />
+
 [<img alt="Power Query M Code" src=".github/assets/images/power_query.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/powerquery-m/)
 
 ### 🛠️ Tools
