@@ -14,7 +14,7 @@ I have a degree in Production Engineering from Fluminense Federal University. I'
 ### 💻 Programming Languages
 [<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" loading="lazy" height="40" width="40" />](https://www.markdownguide.org/)
 [<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" loading="lazy" height="40" width="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="VBA" src="assets/images/vba.png" height="40" width="40" />](https://learn.microsoft.com/en-us/office/vba/api/overview/)
+[<img alt="VBA" src="./assets/images/vba.png" height="40" width="40" />](https://learn.microsoft.com/en-us/office/vba/api/overview/)
 [<img alt="Power Query M Code" src="assets/images/power_query.svg" loading="lazy" height="40" width="40" />](https://learn.microsoft.com/en-us/powerquery-m/)
 
 ### 🛠️ Tools
