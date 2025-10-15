@@ -113,13 +113,13 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
 
 ## 📊 GitHub Stats
 
-<p style="display:flex;justify-content:center;align-items:stretch;gap:10px;aspect-ratio:6/1">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&show_icons=true&theme=dracula&hide_border=true&custom_title=Rodrigo+Porto's+GitHub+Stats&count_private=true&cache_seconds=86400" style="heigth:100%"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&show_icons=true&layout=compact&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" style="heigth:100%"  />
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&show_icons=true&theme=dracula&hide_border=true&custom_title=Rodrigo+Porto's+GitHub+Stats&count_private=true&cache_seconds=86400" height="150px" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&show_icons=true&layout=compact&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" height="150px" />
 </p>
 
 <p align="center">
-  <img  alt="rodrigo-cl-porto's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigo-cl-porto&theme=dracula&hide_border=true&custom_title=Rodrigo+Porto's+Contributions&radius=5&count_private=true&title=as" witdh=100% />
+  <img  alt="rodrigo-cl-porto's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigo-cl-porto&theme=dracula&hide_border=true&custom_title=Rodrigo+Porto's+Contributions&radius=5&count_private=true&title=as" />
 </p>
 
 ## 🧠 My Focus Areas
@@ -130,22 +130,22 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
 ## 🔗 Connect with Me
 
 <p align="left" >
-  <a href="mailto:rodrigo.cl.porto@gmail.com" target="_blank">
+  <a href="mailto:rodrigo.cl.porto@gmail.com" target="_blank" style="text-decoration:none;">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" align="center" />
   </a>
   <a href="https://wa.me/21967846135" target="_blank">
     <img alt="WhatsApp" align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rodrigo-cl-porto/" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-cl-porto/" target="_blank" style="text-decoration:none;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D&logoColor=white&logoSize=auto" align="center" />
   </a>
-  <a href="https://github.com/rodrigo-cl-porto" target="_blank">
+  <a href="https://github.com/rodrigo-cl-porto" target="_blank" style="text-decoration:none;">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" />
   </a>
-  <a href="https://www.kaggle.com/rodrigoclporto" target="_blank">
+  <a href="https://www.kaggle.com/rodrigoclporto" target="_blank" style="text-decoration:none;">
     <img alt="Kaggle" src="https://img.shields.io/badge/-20beff?style=for-the-badge&logo=kaggle&logoColor=white&logoSize=auto" align="center" />
   </a>
-  <a href="https://rodrigo-porto.medium.com/" target="_blank">
+  <a href="https://rodrigo-porto.medium.com/" target="_blank" style="text-decoration:none;">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" align="center" />
   </a>
 </p>
