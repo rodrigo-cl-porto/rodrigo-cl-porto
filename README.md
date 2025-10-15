@@ -2,7 +2,7 @@
   <img alt="Hello there! I'm Rodrigo Porto" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&lines=%F0%9F%91%8B+I'm+Rodrigo+Porto;Nice+to+meet+you!%F0%9F%98%8A" width="80%">
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" autoplay />
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## 📌 About Me
 
@@ -136,7 +136,7 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
 [![Kaggle](https://img.shields.io/badge/-20beff?style=for-the-badge&logo=kaggle&logoColor=white&logoSize=auto)](https://www.kaggle.com/rodrigoclporto)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rodrigo-porto.medium.com/)
 
-## My Contacts
+## 📩 My Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigo.cl.porto@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21967846135)
