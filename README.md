@@ -139,7 +139,7 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
 ## 📩 My Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigo.cl.porto@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21967846135)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521967846135)
 
 ## 💬 Quote
 > The secret to antifragility is to be exposed to advantageous asymmetries; to be exposed to risks with limited losses and unlimited gains.
