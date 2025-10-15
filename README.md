@@ -1,4 +1,6 @@
-<img alt="Hello there! I'm Rodrigo Porto" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello+there!+I'm+Rodrigo+Porto%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%8A)](https://git.io/typing-svg" align="center" width="100%">
+<p align="center">
+  <img alt="Hello there! I'm Rodrigo Porto" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=300&lines=Hello+there!+I'm+Rodrigo+Porto%F0%9F%91%8B;Nice+to+meet+you!" width="60%">
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
