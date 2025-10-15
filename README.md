@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hello there! I'm Rodrigo Porto" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=300&lines=Hello+there!+I'm+Rodrigo+Porto%F0%9F%91%8B;Nice+to+meet+you!" width="60%">
+  <img alt="Hello there! I'm Rodrigo Porto" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&lines=Hello+there!+I'm+Rodrigo+Porto%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%8A" width="80%">
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
@@ -151,6 +151,9 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" align="center" />
   </a>
 </p>
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rodrigo-porto.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rodrigo-porto.medium.com/)
 
 ## 💬 Quote
 > The secret to antifragility is to be exposed to advantageous asymmetries; to be exposed to risks with limited losses and unlimited gains.
