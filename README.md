@@ -186,15 +186,15 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
   <picture>
     <source 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=flat&no-frame=false&no-bg=true&margin-w=4&hide_border=true&count_private=true&row=1&column=5"
+      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=5"
     />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=false&no-bg=true&margin-w=4&hide_border=true&count_private=true&row=1&column=5"
+      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=5"
     />
     <img
       alt="GitHub's Trophies"
-      src="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=false&no-bg=true&margin-w=4&hide_border=true&count_private=true&row=1&column=5"
+      src="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=5"
     />
   </picture>
 </p>
@@ -211,7 +211,7 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
 [![Kaggle](https://img.shields.io/badge/-20beff?style=for-the-badge&logo=kaggle&logoColor=white&logoSize=auto)](https://www.kaggle.com/rodrigoclporto)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rodrigo-porto.medium.com/)
 
-## 📩 Contact Me
+## 🤙 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigo.cl.porto@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521967846135)
