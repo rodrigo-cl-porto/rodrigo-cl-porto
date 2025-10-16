@@ -116,12 +116,53 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&show_icons=true&theme=dracula&hide_border=true&custom_title=Rodrigo+Porto's+GitHub+Stats&count_private=true&cache_seconds=86400" height="150px" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&show_icons=true&layout=compact&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" height="150px" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigo-cl-porto&theme=moltack&hide_border=true&radius=5&count_private=true"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigo-cl-porto&theme=dracula&hide_border=true&radius=5&count_private=true"
+    />
+    <img
+      alt="Rodrigo Porto's Contributions Graph"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigo-cl-porto&theme=dracula&hide_border=true&radius=5&count_private=true"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img  alt="rodrigo-cl-porto's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigo-cl-porto&theme=dracula&hide_border=true&custom_title=Rodrigo+Porto's+Contributions&radius=5&count_private=true&title=as" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&show_icons=true&theme=moltack&hide_border=true&custom_title=Rodrigo+Porto's+GitHub+Stats&count_private=true&hide=issues,contribs"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&custom_title=Rodrigo+Porto's+GitHub+Stats&count_private=true&hide=issues,contribs"
+    />
+    <img
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=rodrigo-cl-porto&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&custom_title=Rodrigo+Porto's+GitHub+Stats&count_private=true&hide=issues,contribs"
+      height="150px"
+    />
+  </picture>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&show_icons=true&layout=compact&theme=moltack&hide_border=true&count_private=true"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&show_icons=true&layout=compact&theme=dracula&hide_border=true&count_private=true"
+    />
+    <img
+      alt="Top Langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&show_icons=true&layout=compact&theme=dracula&hide_border=true&count_private=true" 
+      height="150px"
+    />
+  </picture>
 </p>
 
 ## 🧠 My Focus Areas
@@ -136,7 +177,7 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
 [![Kaggle](https://img.shields.io/badge/-20beff?style=for-the-badge&logo=kaggle&logoColor=white&logoSize=auto)](https://www.kaggle.com/rodrigoclporto)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rodrigo-porto.medium.com/)
 
-## 📩 My Contacts
+## 📩 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigo.cl.porto@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521967846135)
