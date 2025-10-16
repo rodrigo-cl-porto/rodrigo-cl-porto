@@ -2,7 +2,7 @@
   <img alt="Hello there! I'm Rodrigo Porto" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&lines=%F0%9F%91%8B+I'm+Rodrigo+Porto;Nice+to+meet+you!%F0%9F%98%8A" width="80%">
 </p>
 
-![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Banner](https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/mario.gif)
 
 ## 📌 About Me
 
@@ -186,15 +186,15 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
   <picture>
     <source 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=5"
+      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=flat&no-frame=true&margin-w=4&row=1&column=5"
     />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=5"
+      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=true&margin-w=4&row=1&column=5"
     />
     <img
       alt="GitHub's Trophies"
-      src="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=5"
+      src="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=true&margin-w=4&row=1&column=5"
     />
   </picture>
 </p>
@@ -208,10 +208,10 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/rodrigo-cl-porto/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigo-cl-porto)
-[![Kaggle](https://img.shields.io/badge/-20beff?style=for-the-badge&logo=kaggle&logoColor=white&logoSize=auto)](https://www.kaggle.com/rodrigoclporto)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rodrigoclporto)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rodrigo-porto.medium.com/)
 
-## 🤙 Contact Me
+## 🤙 Call Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rodrigo.cl.porto@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521967846135)
@@ -221,5 +221,5 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
 <p align=right><em>Based on Nassim Nicholas Taleb's works</em></p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/rodrigo-cl-porto/rodrigo-cl-porto/assets/images/gradient_line.gif" alt="Bottom Line" width="100%" />
 </div>
