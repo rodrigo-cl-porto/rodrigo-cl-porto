@@ -149,7 +149,7 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
     />
   </picture>
   <picture>
-    <source 
+    <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&show_icons=true&layout=compact&theme=moltack&hide_border=true&count_private=true"
     />
@@ -161,6 +161,40 @@ Currently focusing on automation projects with Python and SQL to solidify my pro
       alt="Top Langs"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-cl-porto&show_icons=true&layout=compact&theme=dracula&hide_border=true&count_private=true" 
       height="150px"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://nirzak-streak-stats.vercel.app/?user=rodrigo-cl-porto&theme=moltack&hide_border=true&count_private=true"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://nirzak-streak-stats.vercel.app/?user=rodrigo-cl-porto&theme=dracula&hide_border=true&count_private=true"
+    />
+    <img
+      alt="GitHub's Streak"
+      src="https://nirzak-streak-stats.vercel.app/?user=rodrigo-cl-porto&theme=dracula&hide_border=true&count_private=true"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=flat&no-frame=false&no-bg=true&margin-w=4&hide_border=true&count_private=true&row=1&column=5"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=false&no-bg=true&margin-w=4&hide_border=true&count_private=true&row=1&column=5"
+    />
+    <img
+      alt="GitHub's Trophies"
+      src="https://github-profile-trophy.vercel.app/?username=rodrigo-cl-porto&theme=dracula&no-frame=false&no-bg=true&margin-w=4&hide_border=true&count_private=true&row=1&column=5"
     />
   </picture>
 </p>
